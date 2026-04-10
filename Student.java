@@ -1,8 +1,8 @@
 public class Student {
     public static void main(String[] args) {
-        int rollno = 1596;
-        String sname = "Varun";
-        String course = "PYTHON"; 
+        int rollno = 1569;
+        String sname = "V";
+        String course = "DEVOPS"; 
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!!");
         System.out.println("My Name is: " + sname);
         System.out.println("My Course is: " + course);
